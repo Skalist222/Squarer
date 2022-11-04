@@ -6,8 +6,11 @@
         internal double radius;
         internal double[] sides;
         internal double[] angles;
-        public abstract double Square(); 
+        public abstract double Square();
+        public static Circle Circle { get { return null; } }
+        public static Triangle Triangle { get { return null; } }
     }
+
 
     public class Circle : Figure 
     {        
@@ -48,6 +51,20 @@
         public double AngleAB { get { return angles[1]; } }
         public double AngleCB { get { return angles[2]; } }
 
+
+        public static bool operator ==(Triangle f1, Figure f2)
+        {
+            if (f1 is Triangle && f2 is Triangle)
+            {
+                return f1.sides[0] == f2.sides[0] && f1.sides[1] == f2.sides[1] && f1.sides[2] == f2.sides[2];
+
+            }
+            else return false;
+        }
+        public static bool operator !=(Triangle  f1, Figure f2)
+        {
+            return !(f1 == f2);
+        }
         public Triangle(double[] sides)
         {
             if (sides.Length > 3 || sides.Length < 3) throw new Exception("a triangle must have 3 sides");
