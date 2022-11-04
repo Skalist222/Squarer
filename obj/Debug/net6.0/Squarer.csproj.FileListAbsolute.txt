@@ -1,0 +1,12 @@
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\Squarer.csproj.AssemblyReference.cache
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\Squarer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\Squarer.AssemblyInfoInputs.cache
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\Squarer.AssemblyInfo.cs
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\Squarer.csproj.CoreCompileInputs.cache
+C:\Users\q8066\source\repos\Squarer\Squarer\bin\Debug\net6.0\Squarer.deps.json
+C:\Users\q8066\source\repos\Squarer\Squarer\bin\Debug\net6.0\Squarer.dll
+C:\Users\q8066\source\repos\Squarer\Squarer\bin\Debug\net6.0\ref\Squarer.dll
+C:\Users\q8066\source\repos\Squarer\Squarer\bin\Debug\net6.0\Squarer.pdb
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\Squarer.dll
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\ref\Squarer.dll
+C:\Users\q8066\source\repos\Squarer\Squarer\obj\Debug\net6.0\Squarer.pdb
